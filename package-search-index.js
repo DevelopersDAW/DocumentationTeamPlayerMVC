@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"cat.proven.teamplayer.exceptions"},{"l":"cat.proven.teamplayer.model"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"cat.proven.teamplayer"},{"l":"cat.proven.teamplayer.exceptions"},{"l":"cat.proven.teamplayer.model"},{"l":"cat.proven.teamplayer.model.persist"}];updateSearchResults();
